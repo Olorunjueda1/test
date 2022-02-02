@@ -1,0 +1,154 @@
+/* top nav */
+
+body{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.top-color{
+  color: white;
+}
+
+.link-color{
+  font-weight: bold;
+}
+
+.nav-img{
+  width: 4rem;
+  border-radius: 20rem;
+  margin-left: 10px
+}
+/* .fixed{
+  position: fixed;
+} */
+
+/* the body */
+.li-1{
+  color: #E0D8A8;
+  font-family: 'Raleway', sans-serif;
+
+
+}
+
+h1{
+  width: 30rem;
+  color: #E0D8A8;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  width: 25rem;
+  color: #E0D8A8;
+  margin: 5% 10% 0 0 ;
+  font-size: 1.3rem;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+
+  color: #E0D8A8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.head-message{
+  background-color:#2F4F4F;
+  color: #E0D8A8;
+}
+
+/* cotaner sets */
+.container-fluid-1{
+  background-color:  #2F4F4F;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.container-fluid-2{
+  background-color:  white;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+
+
+
+#title-nav-side{
+  background-color:  #2F4F4F;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+#button-section-teb{
+  padding: 7% 15%;
+
+
+}
+
+.button-container{
+  margin-left: 19%;
+}
+
+.last-button{
+  margin: 1rem auto 0 30%;
+}
+
+
+.row-1{
+  padding: 10px 100px 10px 150px;
+}
+
+
+
+
+.message-1{
+  margin-bottom: 0;
+}
+
+.counter-fluid3{
+  background-color: red;
+}
+
+#carousel-container{
+  padding: 10% 20% 0 20%;
+}
+
+.p-1{
+  text-align: justify;
+}
+
+/* card */
+#button-section-card{
+
+  background-color: #E8D8A0;
+}
+
+.list-group-item{
+  padding: 0;
+}
+
+.btn-latest-meg{
+  border: 0;
+  text-align: justify;
+}
+
+.icon-s{
+  width: 5%;
+  text-align: left;
+}
+
+
+.img-top{
+  width: 128px;
+  margin: 0 auto;
+
+}
+
+.b-teb{
+  text-align: justify;
+}
